@@ -36,7 +36,3 @@ spec:
   selector:
     app: kube
   type: LoadBalancer
-
-
-
-
